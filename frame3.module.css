@@ -1,0 +1,91 @@
+.frameChild {
+  position: absolute;
+<<<<<<< HEAD
+  top: 0;
+  left: 0;
+=======
+  top: 0px;
+  left: 0px;
+
+>>>>>>> Incoming
+  border-radius: var(--br-5xs);
+  background-color: var(--green);
+  border: 2px solid var(--green);
+  box-sizing: border-box;
+  width: 360px;
+  height: 175px;
+}
+.anAddressClassroom {
+  position: absolute;
+  top: 88px;
+  left: 16px;
+  white-space: pre-wrap;
+  display: inline-block;
+  width: 328px;
+}
+.locationOnBlack24dp1Icon {
+  position: absolute;
+<<<<<<< HEAD
+  top: 0;
+  left: 0;
+=======
+  top: 0px;
+  left: 0px;
+
+>>>>>>> Incoming
+  width: 40px;
+  height: 40px;
+  overflow: hidden;
+}
+.place {
+  position: absolute;
+  top: 5px;
+  left: 48px;
+  font-weight: 600;
+}
+.groupWrapper,
+.locationOnBlack24dp1Parent {
+  position: absolute;
+<<<<<<< HEAD
+  top: 0;
+  left: 0;
+=======
+  top: 0px;
+  left: 0px;
+
+>>>>>>> Incoming
+  width: 104px;
+  height: 40px;
+}
+.groupWrapper {
+<<<<<<< HEAD
+=======
+  position: absolute;
+
+>>>>>>> Incoming
+  top: 24px;
+  left: 16px;
+<<<<<<< HEAD
+=======
+  width: 104px;
+  height: 40px;
+
+>>>>>>> Incoming
+  font-size: var(--font-size-xl);
+}
+.rectangleParent {
+  width: 100%;
+  position: relative;
+  height: 175px;
+  text-align: left;
+<<<<<<< HEAD
+  font-size: var(--text-sm-light-size);
+  color: var(--white);
+  font-family: var(--text-sm-light);
+=======
+  font-size: var(--text-sm-semibold-size);
+  color: var(--base-white);
+  font-family: var(--text-sm-semibold);
+
+>>>>>>> Incoming
+}

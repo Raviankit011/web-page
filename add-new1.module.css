@@ -1,0 +1,704 @@
+.frameChild {
+  position: absolute;
+<<<<<<< HEAD
+  top: 0;
+  left: 0;
+=======
+  top: 0px;
+  left: 0px;
+
+>>>>>>> Incoming
+  border-radius: var(--br-5xs);
+<<<<<<< HEAD
+  background-color: var(--white);
+=======
+  background-color: var(--base-white);
+
+>>>>>>> Incoming
+  width: 840px;
+  height: 542px;
+}
+.addYourListing {
+  position: absolute;
+  top: 2px;
+  left: 56px;
+  font-weight: 600;
+}
+.addIcon {
+  position: absolute;
+<<<<<<< HEAD
+  top: 0;
+  left: 0;
+=======
+  top: 0px;
+  left: 0px;
+
+>>>>>>> Incoming
+  width: 40px;
+  height: 40px;
+  overflow: hidden;
+}
+.addYourListingParent {
+  position: absolute;
+  top: 40px;
+  left: 293px;
+  width: 253px;
+  height: 40px;
+  font-size: var(--font-size-5xl);
+}
+.frameItem {
+  position: absolute;
+<<<<<<< HEAD
+  top: 0;
+  left: 0;
+=======
+  top: 0px;
+  left: 0px;
+
+>>>>>>> Incoming
+  border-radius: var(--br-5xs);
+<<<<<<< HEAD
+  background-color: var(--white);
+=======
+  background-color: var(--base-white);
+
+>>>>>>> Incoming
+  border: 2px solid var(--red);
+  box-sizing: border-box;
+  width: 360px;
+  height: 175px;
+}
+.anItemThat {
+  position: absolute;
+  top: 88px;
+  left: 16px;
+  white-space: pre-wrap;
+  display: inline-block;
+  width: 328px;
+}
+.product {
+  position: absolute;
+  top: 5px;
+  left: 48px;
+  font-weight: 600;
+}
+<<<<<<< HEAD
+.basketCartEcommerceShoppingParent,
+.groupWrapper {
+=======
+.basketCartEcommerceShoppingParent {
+
+>>>>>>> Incoming
+  position: absolute;
+<<<<<<< HEAD
+  top: 0;
+  left: 0;
+=======
+  top: 0px;
+  left: 0px;
+
+>>>>>>> Incoming
+  width: 128px;
+  height: 40px;
+}
+.groupWrapper {
+<<<<<<< HEAD
+=======
+  position: absolute;
+
+>>>>>>> Incoming
+  top: 24px;
+  left: 16px;
+<<<<<<< HEAD
+=======
+  width: 128px;
+  height: 40px;
+
+>>>>>>> Incoming
+  font-size: var(--font-size-xl);
+}
+.frameInner,
+.rectangleGroup {
+  position: absolute;
+  top: 327px;
+  left: 40px;
+  width: 360px;
+  height: 175px;
+}
+.frameInner {
+<<<<<<< HEAD
+  top: 0;
+  left: 0;
+=======
+  position: absolute;
+  top: 0px;
+  left: 0px;
+
+>>>>>>> Incoming
+  border-radius: var(--br-5xs);
+<<<<<<< HEAD
+  background-color: var(--white);
+=======
+  background-color: var(--base-white);
+
+>>>>>>> Incoming
+  border: 2px solid var(--green);
+  box-sizing: border-box;
+<<<<<<< HEAD
+=======
+  width: 360px;
+  height: 175px;
+
+>>>>>>> Incoming
+}
+.groupContainer,
+.locationOnBlack24dp1Parent {
+  position: absolute;
+<<<<<<< HEAD
+  top: 0;
+  left: 0;
+=======
+  top: 0px;
+  left: 0px;
+
+>>>>>>> Incoming
+  width: 104px;
+  height: 40px;
+}
+.groupContainer {
+<<<<<<< HEAD
+=======
+  position: absolute;
+
+>>>>>>> Incoming
+  top: 24px;
+  left: 16px;
+<<<<<<< HEAD
+=======
+  width: 104px;
+  height: 40px;
+
+>>>>>>> Incoming
+  font-size: var(--font-size-xl);
+}
+<<<<<<< HEAD
+.rectangleContainer,
+.rectangleDiv {
+=======
+.rectangleContainer {
+
+>>>>>>> Incoming
+  position: absolute;
+  top: 112px;
+  left: 440px;
+  width: 360px;
+  height: 175px;
+}
+.rectangleDiv {
+<<<<<<< HEAD
+  top: 0;
+  left: 0;
+=======
+  position: absolute;
+  top: 0px;
+  left: 0px;
+
+>>>>>>> Incoming
+  border-radius: var(--br-5xs);
+<<<<<<< HEAD
+  background-color: var(--white);
+=======
+  background-color: var(--base-white);
+
+>>>>>>> Incoming
+  border: 2px solid var(--blue-1);
+  box-sizing: border-box;
+<<<<<<< HEAD
+=======
+  width: 360px;
+  height: 175px;
+
+>>>>>>> Incoming
+}
+.people {
+  position: absolute;
+  top: 44px;
+  left: -7px;
+  font-weight: 600;
+  display: none;
+}
+.programParent {
+  position: absolute;
+<<<<<<< HEAD
+  top: 0;
+  left: 0;
+=======
+  top: 0px;
+  left: 0px;
+
+>>>>>>> Incoming
+  width: 40px;
+  height: 40px;
+}
+.program {
+  position: absolute;
+  top: 5px;
+  left: 48px;
+  font-size: var(--font-size-xl);
+  font-weight: 600;
+  color: var(--grey-darkest);
+}
+.groupFrame,
+.groupParent {
+  position: absolute;
+<<<<<<< HEAD
+  top: 0;
+  left: 0;
+=======
+  top: 0px;
+  left: 0px;
+
+>>>>>>> Incoming
+  width: 138px;
+  height: 40px;
+}
+.groupFrame {
+<<<<<<< HEAD
+=======
+  position: absolute;
+
+>>>>>>> Incoming
+  top: 24px;
+  left: 16px;
+<<<<<<< HEAD
+=======
+  width: 138px;
+  height: 40px;
+
+>>>>>>> Incoming
+  font-size: var(--font-size-base);
+<<<<<<< HEAD
+  color: var(--white);
+=======
+  color: var(--base-white);
+
+>>>>>>> Incoming
+}
+.frameChild1,
+.frameDiv {
+  position: absolute;
+  top: 327px;
+  left: 440px;
+  width: 360px;
+  height: 175px;
+}
+.frameChild1 {
+<<<<<<< HEAD
+  top: 0;
+  left: 0;
+=======
+  position: absolute;
+  top: 0px;
+  left: 0px;
+
+>>>>>>> Incoming
+  border-radius: var(--br-5xs);
+  background-color: var(--primary-full);
+  border: 2px solid var(--primary-full);
+  box-sizing: border-box;
+<<<<<<< HEAD
+=======
+  width: 360px;
+  height: 175px;
+
+>>>>>>> Incoming
+}
+.groupDiv,
+.groupsBlack24dp11Parent {
+  position: absolute;
+<<<<<<< HEAD
+  top: 0;
+  left: 0;
+=======
+  top: 0px;
+  left: 0px;
+
+>>>>>>> Incoming
+  width: 117px;
+  height: 40px;
+}
+.groupDiv {
+<<<<<<< HEAD
+=======
+  position: absolute;
+
+>>>>>>> Incoming
+  top: 24px;
+  left: 16px;
+<<<<<<< HEAD
+=======
+  width: 117px;
+  height: 40px;
+
+>>>>>>> Incoming
+  font-size: var(--font-size-xl);
+}
+.rectangleParent1 {
+  position: absolute;
+  top: 112px;
+  left: 40px;
+  width: 360px;
+  height: 175px;
+<<<<<<< HEAD
+  color: var(--white);
+=======
+  color: var(--base-white);
+
+>>>>>>> Incoming
+}
+.navbarChild,
+.rectangleParent {
+  position: absolute;
+  top: 104px;
+  left: 300px;
+  width: 840px;
+  height: 542px;
+}
+.navbarChild {
+<<<<<<< HEAD
+  top: 0;
+  left: 0;
+=======
+  position: absolute;
+  top: 0px;
+  left: 0px;
+
+>>>>>>> Incoming
+  box-shadow: var(--navbar);
+<<<<<<< HEAD
+  background-color: var(--white);
+=======
+  background-color: var(--base-white);
+
+>>>>>>> Incoming
+  width: 1440px;
+  height: 80px;
+}
+.hobbycueLogoV21 {
+  position: absolute;
+  top: 10px;
+  left: 97px;
+  width: 60px;
+  height: 60px;
+  object-fit: cover;
+}
+.groupChild {
+  position: absolute;
+<<<<<<< HEAD
+  top: 0;
+  left: 0;
+=======
+  top: 0px;
+  left: 0px;
+
+>>>>>>> Incoming
+  border-radius: var(--br-5xs);
+  background-color: var(--grey-hover);
+  border: 1px solid var(--grey-lighter);
+  box-sizing: border-box;
+  width: 300px;
+  height: 40px;
+  mix-blend-mode: normal;
+}
+.searchHere {
+  position: absolute;
+  top: 12px;
+  left: 12px;
+  line-height: 16px;
+  font-weight: 300;
+}
+<<<<<<< HEAD
+.groupItem,
+.icons8Search1 {
+=======
+.groupItem {
+
+>>>>>>> Incoming
+  position: absolute;
+<<<<<<< HEAD
+  border-radius: 0 var(--br-5xs) var(--br-5xs) 0;
+}
+.groupItem {
+  top: 0;
+  left: 0;
+=======
+  top: 0px;
+  left: 0px;
+  border-radius: 0px var(--br-5xs) var(--br-5xs) 0px;
+
+>>>>>>> Incoming
+  background-color: var(--primary-full);
+  width: 40px;
+  height: 40px;
+}
+.icons8Search1 {
+<<<<<<< HEAD
+=======
+  position: absolute;
+
+>>>>>>> Incoming
+  top: 12px;
+  left: 12px;
+<<<<<<< HEAD
+=======
+  border-radius: 0px var(--br-5xs) var(--br-5xs) 0px;
+
+>>>>>>> Incoming
+  width: 16px;
+  height: 16px;
+  overflow: hidden;
+}
+.rectangleParent2,
+.rectangleParent3 {
+  position: absolute;
+<<<<<<< HEAD
+  top: 0;
+=======
+  top: 0px;
+
+>>>>>>> Incoming
+  left: 260px;
+  width: 40px;
+  height: 40px;
+}
+.rectangleParent2 {
+<<<<<<< HEAD
+=======
+  position: absolute;
+
+>>>>>>> Incoming
+  top: 20px;
+  left: 181px;
+  width: 300px;
+<<<<<<< HEAD
+=======
+  height: 40px;
+
+>>>>>>> Incoming
+}
+.explore {
+  position: absolute;
+  top: 1px;
+  left: 28px;
+  font-weight: 500;
+}
+<<<<<<< HEAD
+.exploreIcon,
+.icons8ExpandArrow1 {
+=======
+.exploreIcon {
+
+>>>>>>> Incoming
+  position: absolute;
+<<<<<<< HEAD
+  top: 0;
+  left: 0;
+=======
+  top: 0px;
+  left: 0px;
+
+>>>>>>> Incoming
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.icons8ExpandArrow1 {
+<<<<<<< HEAD
+=======
+  position: absolute;
+  top: 0px;
+
+>>>>>>> Incoming
+  left: 83px;
+<<<<<<< HEAD
+=======
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+
+>>>>>>> Incoming
+}
+.exploreParent {
+  position: absolute;
+  top: 12px;
+<<<<<<< HEAD
+  left: 0;
+=======
+  left: 0px;
+
+>>>>>>> Incoming
+  width: 107px;
+  height: 24px;
+}
+.hobbies {
+  position: absolute;
+  top: 2px;
+  left: 28px;
+  font-weight: 500;
+}
+.icons8ExpandArrow11 {
+  position: absolute;
+<<<<<<< HEAD
+  top: 0;
+=======
+  top: 0px;
+
+>>>>>>> Incoming
+  left: 90px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.hobbiesParent {
+  position: absolute;
+  top: 12px;
+  left: 131px;
+  width: 114px;
+  height: 24px;
+}
+<<<<<<< HEAD
+.bookmarkBlack24dp1Icon,
+.notificationsBlack24dp1Icon,
+.product3Icon {
+=======
+.bookmarkBlack24dp1Icon {
+
+>>>>>>> Incoming
+  position: absolute;
+  top: 12px;
+  left: 269px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+<<<<<<< HEAD
+.notificationsBlack24dp1Icon,
+.product3Icon {
+=======
+.notificationsBlack24dp1Icon {
+  position: absolute;
+  top: 12px;
+
+>>>>>>> Incoming
+  left: 317px;
+<<<<<<< HEAD
+=======
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+
+>>>>>>> Incoming
+}
+.product3Icon {
+<<<<<<< HEAD
+=======
+  position: absolute;
+  top: 12px;
+
+>>>>>>> Incoming
+  left: 365px;
+<<<<<<< HEAD
+=======
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+
+>>>>>>> Incoming
+}
+.groupInner {
+  position: absolute;
+<<<<<<< HEAD
+  top: 0;
+=======
+  top: 0px;
+
+>>>>>>> Incoming
+  left: 413px;
+  border-radius: 50%;
+  width: 48px;
+  height: 48px;
+  object-fit: cover;
+}
+.arrowIcon {
+  position: absolute;
+  height: 50%;
+  width: 4.91%;
+  top: 25%;
+<<<<<<< HEAD
+  right: 0;
+=======
+  right: 0%;
+
+>>>>>>> Incoming
+  bottom: 25%;
+  left: 95.09%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+<<<<<<< HEAD
+.groupParent1,
+.navbar {
+=======
+.groupParent1 {
+
+>>>>>>> Incoming
+  position: absolute;
+  top: 16px;
+  left: 851px;
+  width: 489px;
+  height: 48px;
+<<<<<<< HEAD
+  font-size: var(--text-sm-light-size);
+=======
+  font-size: var(--text-sm-semibold-size);
+
+>>>>>>> Incoming
+  color: var(--base-black);
+}
+.navbar {
+<<<<<<< HEAD
+  top: 0;
+  left: 0;
+=======
+  position: absolute;
+  top: 0px;
+  left: 0px;
+
+>>>>>>> Incoming
+  width: 1440px;
+  height: 80px;
+  font-size: var(--font-size-xs);
+  color: var(--grey-dark);
+}
+.addNew {
+  width: 100%;
+  position: relative;
+  background-color: var(--grey-hover);
+  height: 865px;
+  overflow: hidden;
+  text-align: left;
+<<<<<<< HEAD
+  font-size: var(--text-sm-light-size);
+=======
+  font-size: var(--text-sm-semibold-size);
+
+>>>>>>> Incoming
+  color: var(--grey-darkest);
+<<<<<<< HEAD
+  font-family: var(--text-sm-light);
+=======
+  font-family: var(--text-sm-semibold);
+
+>>>>>>> Incoming
+}

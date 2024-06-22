@@ -1,0 +1,10 @@
+.returnToTop {
+  width: 213px;
+  font-size: var(--text-sm-semibold-size);
+  line-height: 18px;
+  font-weight: 600;
+  font-family: var(--text-sm-semibold);
+  color: var(--base-black);
+  text-align: left;
+  display: inline-block;
+}

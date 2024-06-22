@@ -1,0 +1,9 @@
+.hover {
+  width: 143px;
+  font-size: var(--font-size-29xl);
+  font-weight: 600;
+  font-family: var(--text-sm-semibold);
+  color: var(--base-black);
+  text-align: left;
+  display: inline-block;
+}

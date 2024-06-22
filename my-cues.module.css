@@ -1,0 +1,161 @@
+.naveBarResponsive {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 360px;
+  height: 48px;
+}
+.frameChild {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border-radius: var(--br-5xs);
+  background-color: var(--base-white);
+  border: 2px solid var(--primary-full);
+  box-sizing: border-box;
+  width: 312px;
+  height: 142px;
+}
+.people {
+  position: relative;
+  line-height: 26px;
+  font-weight: 600;
+}
+.groupsBlack24dp11Parent {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-5xs);
+}
+.anIndividualOr {
+  width: 280px;
+  position: relative;
+  font-size: var(--font-size-xs);
+  white-space: pre-wrap;
+  display: inline-block;
+}
+.frameGroup {
+  position: absolute;
+  top: 16px;
+  left: 16px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-5xl);
+}
+.rectangleParent {
+  width: 312px;
+  position: relative;
+  height: 142px;
+}
+.frameItem {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border-radius: var(--br-5xs);
+  background-color: var(--base-white);
+  border: 2px solid var(--green);
+  box-sizing: border-box;
+  width: 312px;
+  height: 142px;
+}
+.placeIcon {
+  width: 32px;
+  position: relative;
+  height: 32px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.frameInner {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border-radius: var(--br-5xs);
+  background-color: var(--base-white);
+  border: 2px solid var(--red);
+  box-sizing: border-box;
+  width: 312px;
+  height: 142px;
+}
+.rectangleDiv {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border-radius: var(--br-5xs);
+  background-color: var(--base-white);
+  border: 2px solid var(--blue-1);
+  box-sizing: border-box;
+  width: 312px;
+  height: 142px;
+}
+.programIcon {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 32px;
+  height: 32px;
+  overflow: hidden;
+}
+.program {
+  position: absolute;
+  top: 3px;
+  left: 40px;
+  line-height: 26px;
+  font-weight: 600;
+}
+.programParent {
+  width: 121px;
+  position: relative;
+  height: 32px;
+}
+.groupWrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.groupIcon {
+  position: absolute;
+  top: 110px;
+  left: 283px;
+  width: 32px;
+  height: 32px;
+}
+.frameParent {
+  position: absolute;
+  top: 128px;
+  left: 24px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-base);
+}
+.addYourListing {
+  position: relative;
+  font-weight: 600;
+}
+.addParent {
+  position: absolute;
+  top: 72px;
+  left: 76px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-xs);
+  font-size: var(--font-size-xl);
+}
+.myCues {
+  width: 100%;
+  position: relative;
+  background-color: var(--base-white);
+  height: 768px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--grey-darkest);
+  font-family: var(--text-sm-semibold);
+}

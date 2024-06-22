@@ -1,0 +1,35 @@
+.groupChild {
+  position: absolute;
+<<<<<<< HEAD
+  top: 0;
+  left: 0;
+=======
+  top: 0px;
+  left: 0px;
+
+>>>>>>> Incoming
+  box-shadow: var(--dropdown);
+  border-radius: 50%;
+<<<<<<< HEAD
+  background-color: var(--white);
+=======
+  background-color: var(--base-white);
+
+>>>>>>> Incoming
+  width: 32px;
+  height: 32px;
+}
+.arrowForwardIosBlack24dp1Icon {
+  position: absolute;
+  top: 8px;
+  left: 8px;
+  width: 16px;
+  height: 16px;
+  overflow: hidden;
+  object-fit: contain;
+}
+.ellipseParent {
+  width: 100%;
+  position: relative;
+  height: 32px;
+}

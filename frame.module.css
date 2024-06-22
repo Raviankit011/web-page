@@ -1,0 +1,168 @@
+.frameChild {
+  position: absolute;
+<<<<<<< HEAD
+  top: 0;
+  left: 0;
+=======
+  top: 0px;
+  left: 0px;
+
+>>>>>>> Incoming
+  border-radius: var(--br-5xs);
+  background-color: var(--primary-full);
+  width: 312px;
+  height: 142px;
+}
+.people {
+  position: relative;
+  line-height: 26px;
+  font-weight: 600;
+}
+.groupsBlack24dp11Parent {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-5xs);
+}
+.anIndividualOr {
+  width: 280px;
+  position: relative;
+  font-size: var(--font-size-xs);
+  white-space: pre-wrap;
+  display: inline-block;
+}
+.frameGroup {
+  position: absolute;
+  top: 16px;
+  left: 16px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-5xl);
+}
+.frameItem,
+.rectangleParent {
+  width: 312px;
+  position: relative;
+  height: 142px;
+}
+.frameItem {
+  position: absolute;
+<<<<<<< HEAD
+  top: 0;
+  left: 0;
+=======
+  top: 0px;
+  left: 0px;
+
+>>>>>>> Incoming
+  border-radius: var(--br-5xs);
+  background-color: var(--green);
+  border: 2px solid var(--green);
+  box-sizing: border-box;
+<<<<<<< HEAD
+=======
+  width: 312px;
+  height: 142px;
+
+>>>>>>> Incoming
+}
+.placeIcon {
+  width: 32px;
+  position: relative;
+  height: 32px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.frameInner {
+<<<<<<< HEAD
+=======
+  position: absolute;
+  top: 0px;
+  left: 0px;
+
+>>>>>>> Incoming
+  border-radius: var(--br-5xs);
+  background-color: var(--red);
+  width: 312px;
+  height: 142px;
+}
+.frameInner,
+.programIcon,
+.rectangleDiv {
+  position: absolute;
+<<<<<<< HEAD
+  top: 0;
+  left: 0;
+}
+.rectangleDiv {
+=======
+  top: 0px;
+  left: 0px;
+
+>>>>>>> Incoming
+  border-radius: var(--br-5xs);
+  background-color: var(--blue-1);
+  width: 312px;
+  height: 142px;
+}
+.programIcon {
+<<<<<<< HEAD
+=======
+  position: absolute;
+  top: 0px;
+  left: 0px;
+
+>>>>>>> Incoming
+  width: 32px;
+  height: 32px;
+  overflow: hidden;
+}
+.program {
+  position: absolute;
+  top: 3px;
+  left: 40px;
+  line-height: 26px;
+  font-weight: 600;
+}
+.programParent {
+  width: 121px;
+  position: relative;
+  height: 32px;
+}
+.frameParent,
+.groupWrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frameParent {
+  position: relative;
+  width: 100%;
+<<<<<<< HEAD
+=======
+  display: flex;
+  flex-direction: column;
+
+>>>>>>> Incoming
+  align-items: flex-end;
+<<<<<<< HEAD
+=======
+  justify-content: flex-start;
+
+>>>>>>> Incoming
+  gap: var(--gap-base);
+  text-align: left;
+  font-size: var(--font-size-lg);
+<<<<<<< HEAD
+  color: var(--white);
+  font-family: var(--text-sm-light);
+=======
+  color: var(--base-white);
+  font-family: var(--text-sm-semibold);
+
+>>>>>>> Incoming
+}
